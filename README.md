@@ -1,2 +1,4 @@
-# c3-pro-faq
-FAQ articles for inclusion in C3-PRO
+C3-PRO FAQ
+==========
+
+FAQ [articles](./Articles) for inclusion in C3-PRO.
